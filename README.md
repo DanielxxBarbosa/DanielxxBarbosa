@@ -1,16 +1,14 @@
-## Hi there 👋
+# Nome do Projeto
 
-<!--
-**DanielxxBarbosa/DanielxxBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uma breve descrição do que seu projeto faz e para que ele serve.
 
-Here are some ideas to get you started:
+## 🚀 Começando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Essas instruções permitirão que você obtenha uma cópia do projeto na sua máquina local para desenvolvimento e testes.
+
+### 📋 Pré-requisitos
+
+Liste o que é necessário para instalar o software:
+
+```bash
+ex: Node.js, Python 3.10, Git etc.
